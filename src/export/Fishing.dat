@@ -1,0 +1,21 @@
+ Shrimp,10,1,37,No,0
+ Herring,30,10,31,No,0
+ Trout,50,20,39,No,0
+ Pike,60,25,34,No,0
+ Salmon,70,30,35,No,0
+ Tuna,80,35,40,No,80
+ Lobsters,90,40,32,No,0
+ Bass,100,46,537,Yes,0
+ Leaping Trout,50,48,815,Yes,0
+ Swordfish,100,50,38,No,100
+ Leaping Salmon,70,58,813,Yes,0
+ Monkfish,120,62,33,Yes,0
+ Leaping Sturgeon,80,70,814,Yes,0
+ Shark,110,76,36,Yes,110
+ Sea Turtle,38,79,474,Yes,0
+ Manta Ray,46,81,473,Yes,0
+ Cavefish,300,85,661,Yes,0
+ Rocktail,380,90,660,Yes,0
+ Small Crystal Urchin,310,93,821,Yes,0
+ Medium Crystal Urchin,330,95,820,Yes,0
+ Large Crystal Urchin,350,97,822,Yes,0

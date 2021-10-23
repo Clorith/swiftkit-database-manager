@@ -1,0 +1,38 @@
+ Bake Pie,60,65,590,Yes,0
+ Cure Plant,60,66,599,Yes,0
+ Monster Examine,61,66,614,Yes,0
+ Npc Contact,63,67,617,Yes,0
+ Cure Other,65,68,598,Yes,0
+ Humidify,65,68,607,Yes,0
+ Moonclan Teleport,66,69,615,Yes,0
+ Tele Group Moonclan,67,70,616,Yes,0
+ Cure Me,69,71,597,Yes,0
+ Ourania Teleport,69,71,618,Yes,0
+ Hunter Kit,70,71,608,Yes,0
+ Waterbirth Teleport,71,72,627,Yes,0
+ Tele Group Waterbirth,72,73,628,Yes,0
+ Cure Group,74,74,596,Yes,0
+ Barbarian Teleport,76,75,591,Yes,0
+ Stat Spy,76,75,621,Yes,0
+ Tele Group Barbarian,77,76,592,Yes,0
+ Superglass Make,78,77,623,Yes,0
+ Khazard Teleport,80,78,611,Yes,0
+ Tele Group Khazard,81,79,612,Yes,0
+ Dream,82,79,600,Yes,0
+ String Jewellery,83,80,622,Yes,0
+ Stat Restore Pot Share,84,81,620,Yes,0
+ Magic Imbue,86,82,613,Yes,0
+ Fertile Soil,87,83,602,Yes,0
+ Boost Potion Share,88,84,593,Yes,0
+ Fishing Guild Teleport,89,85,603,Yes,0
+ Tele Group Fishing Gulid,90,86,604,Yes,0
+ Plank Make,90,86,619,Yes,0
+ Teleport Catherby,92,87,594,Yes,0
+ Tele Group Catherby,93,88,595,Yes,0
+ Ice Plateau Teleport,96,89,609,Yes,0
+ Tele Group Ice Plateau,99,90,610,Yes,0
+ Heal Other,101,92,606,Yes,0
+ Vengeance other,108,93,626,Yes,0
+ Vengeance,112,94,625,Yes,0
+ Heal Group,124,95,605,Yes,0
+ Spellbook Swap,130,96,624,Yes,0

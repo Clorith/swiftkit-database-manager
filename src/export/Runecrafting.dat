@@ -1,0 +1,61 @@
+ Air,5,1,217,No,0
+ Air (Wearing Air Rc Gloves),10,10,217,No,0
+ Mind,5.5,2,228,No,0
+ Water,6,5,234,No,0
+ Water (Wearing Water Rc Gloves),12,20,234,No,0
+ Earth,6.5,9,224,No,0
+ Earth (Wearing Earth Rc Gloves),13,30,224,No,0
+ Fire,7,14,225,No,0
+ Body,7.5,20,219,No,0
+ Cosmic,8,27,221,Yes,0
+ Chaos,8.5,35,220,Yes,0
+ Astral,8.7,40,218,Yes,0
+ Nature,9,44,231,Yes,0
+ Law,9.5,54,227,Yes,0
+ Death,10,65,222,Yes,0
+ Blood,10.5,77,562,Yes,0
+ Mist,8,6,229,Yes,0
+ Dust,8.27,10,223,Yes,0
+ Mud,9.31,13,230,Yes,0
+ Smoke,9.48,15,232,Yes,0
+ Steam,10,19,233,Yes,0
+ Lava,10.48,23,226,Yes,0
+ Air Tiara,25,1,572,No,0
+ Mind Tiara,27.5,1,581,No,0
+ Water Tiara,30,1,583,No,0
+ Earth Tiara,32.5,1,578,No,0
+ Fire Tiara,35,1,578,No,0
+ Body Tiara,37.5,1,574,No,0
+ Cosmic Tiara,40,1,576,Yes,0
+ Chaos Tiara,42.5,1,575,Yes,0
+ Nature Tiara,45,1,582,Yes,0
+ Law Tiara,47.5,1,580,Yes,0
+ Death Tiara,50,1,577,Yes,0
+ Blood Tiara,52.5,1,573,Yes,0
+ Air essling,9.5,1,749,No,0
+ Mind essling,10,1,759,No,0
+ Water essling,12.6,5,762,No,0
+ Earth essling,14.5,9,756,No,0
+ Fire essling,17.4,14,757,No,0
+ Body esshound,23.1,20,752,No,0
+ Cosmic esshound,26.5,27,754,Yes,0
+ Chaos esshound,30.66,35,753,Yes,0
+ Astral esshound,35.5,40,750,Yes,0
+ Nature esshound,43.5,44,760,Yes,0
+ Law esshound,54,54,758,Yes,0
+ Death esswraith,60,65,755,Yes,0
+ Blood esswraith,73.1,77,751,Yes,0
+ Soul esswraith,106.5,90,761,Yes,0
+ Cyclone,19,1,749,No,0
+ Mind storm,20,1,759,No,0
+ Water pool,25.5,5,762,No,0
+ Rock fragment,28.6,9,756,Yes,0
+ Fireball,34.8,14,757,Yes,0
+ Fleshy growth,46.2,20,752,No,0
+ Chaotic cloud,61.5,35,753,Yes,0
+ Shifter,86.8,44,760,Yes,0
+ Jumper,107.5,54,758,Yes,0
+ Skulls,120,65,755,Yes,0
+ Blood pool,146,77,751,Yes,0
+ Living soul,213,90,761,Yes,0
+ Undead Soul,199.75,95,761,Yes,9

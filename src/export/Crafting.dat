@@ -1,0 +1,115 @@
+ Wool,2.5,1,76,No,0
+ Bow Strings,15,1,62,Yes,0
+ Opal,15,1,70,Yes,0
+ Gold Ring,15,5,89,No,0
+ Gold Necklace,20,6,88,No,0
+ Gold Bracelet,25,7,481,Yes,0
+ Gold Amulet,30,8,87,No,0
+ Cowl,18.5,9,49,No,18.5
+ Imphide Gloves,10,10,799,No,10
+ Vambraces,22,11,60,No,22
+ Imphide Boots,10,11,798,No,10
+ Imphide Hood,20,12,800,No,20
+ Jade,20,13,68,Yes,0
+ Imphide Robe Bottom,20,13,801,No,20
+ Imphide Robe Top,30,14,802,No,30
+ Leather Body,25,14,54,No,25
+ Imphide Book,30,15,797,No,30
+ Imp Horn Wand,30,16,804,No,30
+ Holy Symbol,50,16,90,No,0
+ Red Topaz,25,16,74,Yes,0
+ Unholy Symbol,50,17,99,Yes,0
+ Imphide Shield,40,17,803,No,40
+ Chaps,27,18,47,No,27
+ Magic Strings,30,19,69,Yes,0
+ Sapphire,50,20,73,No,0
+ Sapphire Ring,40,20,97,No,0
+ Spider Silk Gloves,12.5,20,806,No,12.5
+ Spider Silk Boots,12.5,21,805,No,12.5
+ Spider Silk Hood,25,22,807,No,25
+ Sapphire Necklace,55,22,96,No,0
+ Spider Silk Robe Bottom,25,23,809,No,25
+ Tiara,52.5,23,98,No,0
+ Sapphire Bracelet,60,23,484,Yes,0
+ Spider Silk Robe Top,37.5,24,810,No,37.5
+ Sapphire Amulet,65,24,95,No,0
+ Pot Lid,40,25,71,Yes,0
+ Spider Orb,25,25,808,No,25
+ Spider Wand,25,26,811,No,25
+ Emerald,67.5,27,66,No,0
+ Emerald Ring,55,27,85,No,0
+ Hard Leather Body,35,28,53,No,35
+ Emerald Necklace,60,29,84,No,0
+ Emerald Bracelet,65,30,480,Yes,0
+ Emerald Amulet,70,30,83,No,0
+ Carapace Gloves,12,30,789,Yes,12
+ Carapace Boots,12,31,787,Yes,12
+ Glass Vial,35,33,100,Yes,0
+ Carapace Legs,24,34,791,Yes,24
+ Ruby,85,34,72,No,0
+ Ruby Ring,70,34,94,No,0
+ Carapace Helm,36,35,790,Yes,36
+ Carapace Torso,36,35,792,Yes,36
+ Coif,37,38,48,Yes,37
+ Ruby Necklace,75,40,93,No,0
+ Studded Body,40,41,58,Yes,0
+ Ruby Bracelet,80,42,483,Yes,0
+ Diamond Ring,85,43,79,No,0
+ Silver Bolt,50,43,570,Yes,0
+ Yak-hide Legs,32,43,629,Yes,32
+ Diamond,107.5,43,63,No,0
+ Studded Chaps,42,44,59,Yes,0
+ Snakeskin Boots,30,45,529,Yes,30
+ Glass Orb,52.5,46,86,Yes,0
+ Snakeskin Vambraces,35,47,531,Yes,35
+ Snakeskin Bandana,45,48,527,Yes,45
+ Batwing Gloves,50,50,782,Yes,50
+ Ruby Amulet,85,50,92,No,0
+ Snakeskin Chaps,50,51,530,Yes,50
+ Batwing Boots,50,52,781,Yes,50
+ Snakeskin Body,55,53,528,Yes,55
+ Water Battlestaff,100,54,75,Yes,0
+ Batwing Hood,100,54,783,Yes,100
+ Dragonstone,137.5,55,64,Yes,0
+ Batwing Legs,100,55,784,Yes,100
+ Dragonstone Ring,100,55,82,Yes,0
+ Diamond Necklace,90,56,78,No,0
+ Batwing Torso,150,56,786,Yes,150
+ Green Vambraces,62,57,52,Yes,62
+ Batwing Shield,200,58,785,Yes,200
+ Earth Battlestaff,112.5,58,65,Yes,0
+ Diamond Bracelet,95,58,478,Yes,0
+ Bat Book,200,59,780,Yes,200
+ Green Chaps,124,60,51,Yes,124
+ Bat Wand,200,61,787,Yes,200
+ Fire Battlestaff,125,62,67,Yes,0
+ Green Body,186,63,50,Yes,186
+ Green d'hide shield,248,64,795,No,248
+ Air Battlestaff,137.5,66,61,Yes,0
+ Blue Vambraces,70,66,46,Yes,70
+ Onyx Ring,115,67,487,Yes,0
+ Onyx,167.5,67,91,Yes,0
+ Blue Chaps,140,68,45,Yes,140
+ Diamond Amulet,100,70,77,No,0
+ Blue Body,210,71,44,Yes,210
+ Blue d'hide shield,280,72,794,No,280
+ Dragonstone Necklace,105,72,81,Yes,0
+ Red Vambraces,78,73,57,Yes,78
+ Dragonstone Bracelet,110,74,479,Yes,0
+ Red Chaps,156,75,56,Yes,156
+ Red Body,234,77,55,Yes,234
+ Red d'hide shield,312,78,796,Yes,312
+ Black Vambraces,86,79,43,Yes,86
+ Dragonstone Amulet,150,80,80,Yes,0
+ Black Chaps,172,82,42,Yes,172
+ Onyx Necklace,120,82,486,Yes,0
+ Onyx Bracelet,125,84,482,Yes,0
+ Black Body,258,84,41,Yes,258
+ Black d'hide shield,344,85,793,Yes,344
+ Dorgeshuun light orb,70,87,475,Yes,0
+ Dorgeshuun light orb(Filament),174,87,475,Yes,0
+ Royal Vambraces,94,87,748,Yes,94
+ Potion Flask,100,89,769,Yes,0
+ Royal Chaps,188,89,747,Yes,188
+ Onyx Amulet,165,90,485,Yes,0
+ Royal Body,282,93,746,Yes,282

@@ -1,0 +1,148 @@
+ Bronze Bar,6.2,1,236,No,0
+ Bronze Dagger/Axe,12.5,1,264,No,12.5
+ Bronze Mace,12.5,2,272,No,12.5
+ Bronze Medium Helm,12.5,3,273,No,12.5
+ Bronze Bolts,12,3,412,Yes,12
+ Bronze Sword/Dart Tips,12.5,4,277,No,12.5
+ Bronze Nails,12,4,274,Yes,12
+ Bronze Arrow Heads,12,5,263,Yes,12
+ Bronze Scimitar,25,5,275,No,25
+ Bronze Limbs,12,6,413,Yes,12
+ Bronze Long Sword,25,6,271,No,25
+ Bronze Full Helm,25,7,269,No,25
+ Bronze Throwing Knives,12,7,268,Yes,12
+ Bronze Sq Shield,25,8,276,No,25
+ Bronze Warhammer,37.5,9,278,No,37.5
+ Bronze Battle Axe,37.5,10,261,No,37.5
+ Bronze Chainbody,37,11,265,No,37.5
+ Bronze Kite Shield,37.5,12,267,No,37.5
+ Blurite Bolts,17,13,410,Yes,17
+ Blurite Limbs,17,13,411,Yes,17
+ Bronze 2 Handed Sword,37.5,14,262,No,37.5
+ Iron Dagger,25,15,285,No,25
+ Iron Bar,12.5,15,238,No,0
+ Bronze PlateSkirt/Legs,37.5,16,270,No,37.5
+ Iron Axe,25,16,282,No,25
+ Iron Mace,25,17,290,No,25
+ Iron Bolts,25,18,414,Yes,25
+ Iron Medium Helm,25,18,291,No,25
+ Bronze Platebody,62.5,18,266,No,62.5
+ Iron Sword/Dart Tips/Nails,25,19,294,No,25
+ Silver Bar,13.7,20,241,No,0
+ Iron Scimitar/Arrow Heads,25,20,292,No,25
+ Iron Long Sword,50,21,289,No,50
+ Iron Throwing Knives,25,22,287,Yes,25
+ Iron Full Helm,50,22,288,No,50
+ Iron Sq Shield,50,23,293,No,50
+ Iron Limbs,25,23,415,Yes,25
+ Iron Warhammer,75,24,295,No,75
+ Iron Battle Axe,75,25,283,No,75
+ Iron Chainbody,75,26,284,No,75
+ Iron Kite Shield,75,27,286,No,75
+ Iron 2 Handed Sword,75,29,281,No,75
+ Steel Bar,17.5,30,242,No,0
+ Iron Burial Armour (Grade I),101,30,764,No,101
+ Iron Burial Armour (Grade III),240,30,764,No,240
+ Iron Burial Armour (Grade II),202,30,764,No,202
+ Steel Dagger/Axe,37.5,30,334,No,37.5
+ Iron PlateSkirt/Legs,75,31,280,No,75
+ Steel Mace,37.5,32,345,No,37.5
+ Steel Bolts,37.5,33,420,Yes,37.5
+ Iron Platebody,125,33,279,No,125
+ Steel Medium Helm,37.5,33,346,No,37.5
+ Steel Sword/Dart Tips,37.5,34,339,Yes,37.5
+ Steel Nails,37.5,34,347,Yes,37.5
+ Steel Cannonballs,25.6,35,336,Yes,25
+ Steel Arrow Heads,37.5,35,333,Yes,37.5
+ Steel Scimitar,37.5,35,348,No,37.5
+ Steel Limbs,37.5,36,421,Yes,37.5
+ Steel Studs,36,36,350,Yes,36
+ Steel Long Sword,75,36,344,No,75
+ Steel Full Helm,75,37,342,No,75
+ Steel Throwing Knives,37,37,341,Yes,37
+ Steel Sq Shield,75,38,349,No,75
+ Steel Warhammer,112.5,39,351,No,112.5
+ Gold Bar (Gauntlets),56.2,40,237,Yes,0
+ Gold Bar,22.5,40,237,No,0
+ Steel Battle Axe,112.5,40,335,No,112.5
+ Steel Chainbody,112.5,41,337,No,112.5
+ Steel Kite Shield,112.5,42,340,No,112.5
+ Steel 2 Handed Sword,112.5,44,332,No,112.5
+ Steel Burial Armour (Grade III),354,45,767,No,354
+ Steel Burial Armour (Grade I),131,45,767,No,131
+ Steel Burial Armour (Grade II),253,45,767,No,253
+ Steel PlateSkirt/Legs,112.5,46,343,No,112.5
+ Steel Platebody,187.5,48,338,No,187.5
+ Mith Bar,30,50,239,No,0
+ Mith Dagger,50,50,302,No,50
+ Mith Axe,50,51,298,No,50
+ Mith Mace,50,52,309,No,50
+ Mith Medium Helm,50,53,310,No,50
+ Mithril Bolts,50,53,416,Yes,50
+ Mith Sword/Dart Tips/Nails,50,54,303,Yes,50
+ Mith Scimitar,100,55,311,No,100
+ Mith Arrow Heads,50,55,297,Yes,50
+ Mith Long Sword,100,56,308,No,100
+ Mithril Limbs,50,56,417,Yes,50
+ Mith Full Helm,100,57,306,No,100
+ Mith Throwing Knives,50,57,305,Yes,50
+ Mith Sq Shield,100,58,312,No,100
+ Mith Warhammer,150,59,313,No,150
+ Mithril Burial Armour (Grade III),404,60,765,No,404
+ Mithril Burial Armour (Grade I),164,60,765,No,164
+ Mithril Burial Armour (Grade II),316,60,765,No,316
+ Mith Battle Axe,150,60,299,No,150
+ Mith Chainbody,150,61,300,No,150
+ Mith Kite Shield,150,62,304,No,150
+ Mith 2 Handed Sword,150,64,296,No,150
+ Mith PlateSkirt/Legs,150,66,307,No,150
+ Mith Platebody,250,68,301,No,250
+ Adamant Burial Armour (Grade II),455,70,763,No,455
+ Adamant Burial Armour (Grade III),568,70,763,No,568
+ Adamant Burial Armour (Grade I),278,70,763,No,278
+ Addy Bar,37.5,70,235,No,0
+ Addy Dagger,62.5,70,245,No,62.5
+ Addy Axe,62.5,71,244,No,62.5
+ Addy Mace,62.5,72,250,No,62.5
+ Addy Medium Helm,62.5,73,251,No,62.5
+ Addy Bolts,62.5,73,408,Yes,62.5
+ Addy Sword/Dart Tips/Nails,62.5,74,246,Yes,62.5
+ Addy Arrow Heads,62.5,75,243,Yes,62.5
+ Addy Scimitar,125,75,252,No,125
+ Addy Long Sword,125,76,249,No,125
+ Addy Limbs,62.5,76,409,Yes,62.5
+ Addy Full Helm,125,77,248,No,125
+ Addy Throwing Knives,62.5,77,247,Yes,62.5
+ Addy Sq Shield,125,78,259,No,125
+ Addy Warhammer,187.5,79,260,No,187.5
+ Addy Battle Axe,187.5,80,254,No,187.5
+ Addy Chainbody,187.5,81,255,No,187.5
+ Addy Kite Shield,187.5,82,257,No,187.5
+ Addy 2 Handed Sword,187.5,84,253,No,187.5
+ Rune Dagger,75,85,320,No,75
+ Rune Bar,50,85,240,No,0
+ Rune Axe,75,86,316,No,75
+ Addy PlateSkirt/Legs,187.5,86,258,No,187.5
+ Rune Mace,75,87,326,No,75
+ Rune Medium Helm,75,88,327,No,75
+ Runite Bolts,75,88,418,Yes,75
+ Addy Platebody,312.5,88,256,No,312.5
+ Corrupted Ore,150,89,773,Yes,0
+ Rune Sword/Dart Tips/Nails,75,89,330,Yes,75
+ Rune Burial Armour (Grade I),505,90,766,No,505
+ Rune Burial Armour (Grade II),631,90,766,No,631
+ Rune Arrow Heads,75,90,315,Yes,75
+ Rune Scimitar,150,90,328,No,150
+ Rune Burial Armour (Grade III),758,90,766,No,758
+ Rune Long Sword,150,91,325,No,150
+ Runite Limbs,75,91,419,Yes,75
+ Rune Full Helm,150,92,323,No,150
+ Rune Throwing Knives,75,92,322,Yes,75
+ Rune Sq Shield,150,93,329,No,150
+ Rune Warhammer,225,94,331,No,225
+ Rune Battle Axe,225,95,317,No,225
+ Rune Chainbody,225,96,318,No,225
+ Rune Kite Shield,225,97,321,No,225
+ Rune 2 Handed Sword,225,99,314,No,225
+ Rune PlateSkirt/Legs,225,99,324,No,225
+ Rune Platebody,375,99,319,No,375
